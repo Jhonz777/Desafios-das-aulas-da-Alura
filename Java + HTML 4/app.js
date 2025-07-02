@@ -12,10 +12,12 @@ linguagensDeProgramacao.push('Java', 'Ruby', 'GoLang');
 let nomes1 = ['Guilherme', 'Monica', 'Alura'];
 console.log(nomes1[0]);
 
-/// Crie uma lista com 3 nomes e exiba no console apenas o segundo elemento.
+// Crie uma lista com 3 nomes e exiba no console apenas o segundo elemento.
 let nomes2 = ['Guilherme', 'Monica', 'Alura'];
 console.log(nomes2[1]);
 
-/// Crie uma lista com 3 nomes e exiba no console apenas o último elemento.
+// Crie uma lista com 3 nomes e exiba no console apenas o último elemento.
 let nomesLast = ['Guilherme', 'Monica', 'Alura'];
 console.log(nomesLast[nomesLast.length - 1]);
+
+//Eu poderia usar let nomes e depois apenas nomes nos outros itens mas cada item pede para criar 3 nomes.
